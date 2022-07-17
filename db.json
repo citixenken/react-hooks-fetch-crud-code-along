@@ -1,40 +1,28 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "Ken Chicken Drums",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 9
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "Creamy Inn",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Mahindi Choma",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 13
     },
     {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "Frozen Milk",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 14
     }
   ]
 }
